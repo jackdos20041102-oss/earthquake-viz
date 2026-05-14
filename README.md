@@ -2,9 +2,11 @@
 
 课程作业 3：交互式数据可视化系统
 
+周佳仪 132023109 电话：13716181610
+
 在线访问：[https://jaydhwid-boop.github.io/earthquake-viz/](https://jaydhwid-boop.github.io/earthquake-viz/)
 
-源码仓库：[https://github.com/jaydhwid-boop/earthquake-viz](https://github.com/jaydhwid-boop/earthquake-viz)
+源码仓库：[[https://github.com/jaydhwid-boop/earthquake-viz](https://github.com/jaydhwid-boop/earthquake-viz](https://github.com/jackdos20041102-oss/earthquake-viz))
 
 ---
 
