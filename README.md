@@ -6,7 +6,7 @@
 
 在线访问：[https://jaydhwid-boop.github.io/earthquake-viz/](https://jaydhwid-boop.github.io/earthquake-viz/)
 
-源码仓库：[[https://github.com/jaydhwid-boop/earthquake-viz](https://github.com/jaydhwid-boop/earthquake-viz](https://github.com/jackdos20041102-oss/earthquake-viz))
+源码仓库：[//github.com/jackdos20041102-oss/earthquake-viz)]
 
 ---
 
